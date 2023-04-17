@@ -1,5 +1,5 @@
 ### About Me 👋
 
-- Fucking Noob Student
+- Noob Student
 - CTF Player
 - Blog: [http://blog.an4er.top/](http://blog.an4er.top/)
